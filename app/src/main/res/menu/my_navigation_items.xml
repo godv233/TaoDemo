@@ -6,9 +6,9 @@
         android:icon="@mipmap/home_normal"
         android:title="@string/text_home" />
     <item
-        android:id="@+id/selected"
+        android:id="@+id/recommend"
         android:icon="@mipmap/select_normal"
-        android:title="@string/text_selected" />
+        android:title="@string/text_recommend" />
     <item
         android:id="@+id/red_packet"
         android:icon="@mipmap/red_packet_normal"
