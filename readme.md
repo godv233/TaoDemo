@@ -1,0 +1,2 @@
+1.使用fragment和bottomNavigation搭建导航栏和内容
+2.首页使用RelativeLayout搭建顶部，使用TabLayout搭建首页导航。ViewPager渲染首页的商品数据
